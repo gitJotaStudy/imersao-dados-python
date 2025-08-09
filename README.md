@@ -29,7 +29,7 @@
 
  ### 1. Clone o repositório:
 
-     git clone https://github.com/gitjorgequadi/imersao-dados-python.git
+     git clone https://github.com/gitJotaStudy/imersao-dados-python.git
      cd imersao-dados-python
 
  ### 2. Crie e ative o ambiente virtual:
@@ -100,5 +100,6 @@ Consulte o arquivo LICENSE para mais detalhes.
 ---
 
 ## ✨ Créditos
+
 
 Projeto desenvolvido durante a Imersão de Análise de Dados com Python da Alura, agosto de 2025.
