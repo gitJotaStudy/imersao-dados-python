@@ -36,14 +36,14 @@
 
 Windows:
 ```bash
-python -m venv venv
-venv\Scripts\activate
+python -m venv .venv
+.venv\Scripts\activate
 ```
 
 Linux/macOS:
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv .venv
+source .venv/bin/activate
 ```
      
 ### 3. Instale as dependências:
@@ -103,3 +103,4 @@ Consulte o arquivo LICENSE para mais detalhes.
 
 
 Projeto desenvolvido durante a Imersão de Análise de Dados com Python da Alura, agosto de 2025.
+
